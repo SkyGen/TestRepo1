@@ -1,2 +1,3 @@
 # TestRepo1
-Test repo
+This repo is public.
+This is a test repo to see how it can be hopted on GitHub.
